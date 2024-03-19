@@ -5,7 +5,7 @@
 
 ```shell script
 git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+cd ethical-ddos
 pip install -r requirements.txt
 ```
 

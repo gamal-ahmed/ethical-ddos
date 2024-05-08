@@ -4,7 +4,7 @@
 **Clone and Install Script**
 
 ```shell script
-[git clone https://github.com/MatrixTM/MHDDoS.git](https://github.com/gamal-ahmed/ethical-ddos.git)
+[git clone https://github.com/gamal-ahmed/ethical-ddos.git](https://github.com/gamal-ahmed/ethical-ddos.git)
 cd ethical-ddos
 pip install -r requirements.txt
 ```
